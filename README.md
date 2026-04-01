@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 |----------|-------------|-----------|
 | [Pre-Class](./pre-class.md) | Jupyter/Colab setup; what NumPy is and why it matters | 30–45 min |
 | [Lesson Plan](./lesson.md) | Instructor guide for the 3-hour coding session | 3 hours |
-| [Post-Class](./assignment.md) | 7 NumPy practice exercises — arrays, filters, and matrix ops | 45–60 min |
+| [Assignment](./assignment.md) | 7 NumPy practice exercises — arrays, filters, and matrix ops | 45–60 min |
 | [Reference](./reference.md) | NumPy cheat sheet, common functions, and axis reference | As needed |
 
 ---
